@@ -37,7 +37,6 @@
 * Assumptions:
 *         It is assumed that the user will input valid data
 */
-//TEST
 
 #include "Game.h"
  
